@@ -53,7 +53,7 @@ src/
 │   │   │   ├── review/
 │   │   │   ├── shipper/
 │   │   │   ├── shipping/
-│   │   │   ├── viewview/
+│   │   │   ├── view/
 │   └── resources/
 │       ├── application.properties
 │       ├── static/
